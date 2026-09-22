@@ -2,13 +2,7 @@
 # 說明：可將末尾的 DIRECT 改為你的遊戲策略組名稱，例如 PROXY
 
 # 遊戲主要伺服器與 Century Games 官方域名
-HOST-SUFFIX,centurygame
-HOST-SUFFIX,centurygames
-HOST-SUFFIX,whiteoutsurvival
-
-# 遊戲內嵌與活動/儲值相關網頁
-HOST,://centurygame.com
-HOST,store.centurygames.com
-
-# 遊戲數據統計與廣告歸因（若導致轉圈可改為 DIRECT，若想阻擋可改為 REJECT）
-HOST-SUFFIX,adjust.com
+HOST-KEYWORD, whiteoutsurvival
+HOST-SUFFIX, centurygames.com
+HOST-SUFFIX, centurygame.com
+HOST-SUFFIX, funplus.com
