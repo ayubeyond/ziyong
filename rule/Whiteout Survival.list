@@ -1,6 +1,3 @@
-# > 寒霜啟示錄 (Whiteout Survival) 分流規則
-# 說明：可將末尾的 DIRECT 改為你的遊戲策略組名稱，例如 PROXY
-
 # 遊戲主要伺服器與 Century Games 官方域名
 HOST-KEYWORD,whiteoutsurvival
 HOST-SUFFIX,centurygames.com
